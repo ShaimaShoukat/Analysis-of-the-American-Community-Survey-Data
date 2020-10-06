@@ -4,9 +4,10 @@ This report makes use of the Public Use Micro Data Sample file(PUMS), which cont
 The dataset used in this report contains variables from the population characteristics of the PUMS.It consists of 26 variables and 15681927 weighted records records.Some of the variables include Age, Race, Gender, Income, Earnings, Education Attainment, State, Occupation, Citizenship Status, etc.
 
 This project covers:
-#Data Preprocessing: Adjusting for inflation in the income variable for each year.Mapping categorical features to factors.
- 
-#Exploratory Analysis: Various variables are compared and visualized.
 
-#Statistical Analysis: An Analysis of Covariance(ANCOVA) test is run to check if there is a statistically significant difference in the mean earnings of individuals based on their level of proficiency in English.
+Data Preprocessing: Adjusting for inflation in the income variable for each year.Mapping categorical features to factors.
+ 
+Exploratory Analysis: Various variables are compared and visualized.
+
+Statistical Analysis: An Analysis of Covariance(ANCOVA) test is run to check if there is a statistically significant difference in the mean earnings of individuals based on their level of proficiency in English.
 
